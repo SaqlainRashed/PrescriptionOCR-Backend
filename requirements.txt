@@ -8,3 +8,4 @@ fuzzywuzzy
 uvicorn
 python-multipart
 transformers
+distutils
